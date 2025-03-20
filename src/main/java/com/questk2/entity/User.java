@@ -28,7 +28,7 @@ public class User {
     )
     private Set<Role> roles = new HashSet<>();
 
-    // Getters and Setters
+   
     public Long getId() {
         return id;
     }
